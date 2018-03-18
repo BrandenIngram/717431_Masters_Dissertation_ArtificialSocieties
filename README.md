@@ -24,3 +24,11 @@ The image above is a visualisation of an agent's metabolism.
 
 ![alt text](https://github.com/BrandenIngram/717431_Masters_Dissertation_ArtificialSocieties/blob/master/standalonessugargrid.png)
 The image above is a visualisation of the worlds sugar levels.
+
+The following links can be used to view the in-built visusalisations of 3 different experiments.
+
+Visualisation of the simply model :
+Visualisation of the cultural rule in action :
+Visualisation of the propagation through an environment simulation :
+Visualisation of the trade rule in action :
+
