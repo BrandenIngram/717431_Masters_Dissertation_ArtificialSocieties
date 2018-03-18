@@ -1,13 +1,19 @@
 # 717431_Masters_Dissertation_ArtificialSocieties
 This repository was created to provide some additional resources for my Dissertation titled : Emerging behaviours in Artificial Societies : Simulating social-economic phenomena
 
-This repository contains videos and images which demonstrate how the visualiser (as Discussed in the document) works as well as additional
-visualisations of a couple of the experiments conducted in the research.
+This repository contains videos and images which demonstrate how the visualiser (as Discussed in the document) works as well as additional visualisations of a couple of the experiments conducted in the research. The links to these can be found at the bottom of this page
 
-Additionally a JAR File which can be used to visualise a specific experiment has been made available. Instructions on how to use it can be seen below.
+Additionally a RAR file containg all the required files to operate the stand-alone visualiser has been provided. Instructions on how to use it can be seen below.
 
-Download the visualiser 
+Step1: Download the RAR file.
+Step2: Once it has been downloaded extract all the files contained within.
+Step3: You will find a file called Visualiser.jar
+Step4: In order to run the file you will need to have java installed on your computer, java can be downloaded here https://java.com/en/download/
+Step5: Open command prompt/terminal/powershell in the same directory as the jar file.
+Step6: In the command window type: java -jar Visualiser.jar
+Step7: The application window should have opened if successful.
 
+Read the outline below on how to use the visualiser now that it is running.
 
 The first image below represents the main screen of the visualiser before the visaulisation of an experiment has been started. On the Left is our grid of cells representing the world. On the top left you can also see an episode counter and finally on the right is the menu options. To start the visualisation press the start button. If at any point you want to pause the visaulisation press the pause button.
 ![alt text](https://github.com/BrandenIngram/717431_Masters_Dissertation_ArtificialSocieties/blob/master/standalonemenu.png)
