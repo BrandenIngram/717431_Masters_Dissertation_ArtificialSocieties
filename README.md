@@ -40,10 +40,10 @@ The image above is a visualisation of the worlds sugar levels.
 
 The following links can be used to view the in-built visusalisations of 3 different experiments.
 
-Visualisation of the simply model : [linkname](https://youtu.be/Hw6MdUjlhqg)
+Visualisation of the simply model : [Simply Model Experiment](https://youtu.be/Hw6MdUjlhqg)
 
-Visualisation of the influence rule in action : [linkname](https://youtu.be/T_DYIFe4mZ8)
+Visualisation of the influence rule in action : [Influence Rule Experiment](https://youtu.be/T_DYIFe4mZ8)
 
-Visualisation of the propagation through an environment simulation : [linkname](https://youtu.be/r2ZZidp3wP4)
+Visualisation of the propagation through an environment simulation : [Long Bridge Experiment](https://youtu.be/r2ZZidp3wP4)
 
 
