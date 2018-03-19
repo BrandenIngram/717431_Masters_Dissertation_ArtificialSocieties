@@ -6,12 +6,19 @@ This repository contains videos and images which demonstrate how the visualiser 
 Additionally a RAR file containg all the required files to operate the stand-alone visualiser has been provided. Instructions on how to use it can be seen below.
 
 Step1: Download the RAR file.
+
 Step2: Once it has been downloaded extract all the files contained within.
+
 Step3: You will find a file called Visualiser.jar
+
 Step4: In order to run the file you will need to have java installed on your computer, java can be downloaded here https://java.com/en/download/
+
 Step5: Open command prompt/terminal/powershell in the same directory as the jar file.
+
 Step6: In the command window type: java -jar Visualiser.jar
+
 Step7: The application window should have opened if successful.
+
 
 Read the outline below on how to use the visualiser now that it is running.
 
@@ -33,8 +40,10 @@ The image above is a visualisation of the worlds sugar levels.
 
 The following links can be used to view the in-built visusalisations of 3 different experiments.
 
-Visualisation of the simply model :
-Visualisation of the cultural rule in action :
-Visualisation of the propagation through an environment simulation :
-Visualisation of the trade rule in action :
+Visualisation of the simply model : [linkname](https://youtu.be/Hw6MdUjlhqg)
+
+Visualisation of the influence rule in action : [linkname](https://youtu.be/T_DYIFe4mZ8)
+
+Visualisation of the propagation through an environment simulation : [linkname](https://youtu.be/r2ZZidp3wP4)
+
 
