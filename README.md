@@ -40,7 +40,7 @@ The image above is a visualisation of the worlds sugar levels.
 
 The following links can be used to view the in-built visusalisations of 3 different experiments.
 
-Visualisation of the simply model : [Simply Model Experiment](https://youtu.be/Hw6MdUjlhqg)
+Visualisation of the simple model : [Simple Model Experiment](https://youtu.be/Hw6MdUjlhqg)
 
 Visualisation of the influence rule in action : [Influence Rule Experiment](https://youtu.be/T_DYIFe4mZ8)
 
