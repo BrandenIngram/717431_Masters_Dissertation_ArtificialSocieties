@@ -1,15 +1,17 @@
 # 717431_Masters_Dissertation_ArtificialSocieties
-This repository was created to provide some additional resources for my Dissertation titled : Emerging behaviours in Artificial Societies : Simulating social-economic phenomena
+This repository was created to provide some additional resources for my Dissertation titled : 
 
-This repository contains videos and images which demonstrate how the visualiser (as Discussed in the document) works as well as additional visualisations of a couple of the experiments conducted in the research. The links to these can be found at the bottom of this page
+Emerging behaviours in Artificial Societies : Simulating social-economic phenomena
 
-Additionally a RAR file containg all the required files to operate the stand-alone visualiser has been provided. Instructions on how to use it can be seen below.
+This repository contains videos and images which demonstrate how the visualiser (as Discussed in the dissertation) works as well as additional visualisations of a couple of the experiments conducted in the research. The links to these can be found at the bottom of this page.
 
-Step1: Download the RAR file.
+Additionally all files required to operate the stand-alone visualiser have been provided. Instructions on how to use it can be seen below.
 
-Step2: Once it has been downloaded extract all the files contained within.
+Step1: Download both the Visualiser.jar as well as the Visauliser.zip files found in this repository.
 
-Step3: You will find a file called Visualiser.jar
+Step2: Once they have been downloaded extract the Visauliser.zip into a new folder.
+
+Step3: Place the Visualiser.jar file in this same folder.
 
 Step4: In order to run the file you will need to have java installed on your computer, java can be downloaded here https://java.com/en/download/
 
@@ -18,7 +20,6 @@ Step5: Open command prompt/terminal/powershell in the same directory as the jar 
 Step6: In the command window type: java -jar Visualiser.jar
 
 Step7: The application window should have opened if successful.
-
 
 Read the outline below on how to use the visualiser now that it is running.
 
